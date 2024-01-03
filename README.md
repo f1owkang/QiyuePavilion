@@ -1,4 +1,4 @@
-# 栖月阁（Markdown驱动）
+## 栖月阁（Markdown驱动）
 
 Hello 👋，我是 Kslpix ❤️，一个~~博览群站~~的学习者，写过一点代码，有过几个微型项目。
 
@@ -8,7 +8,7 @@ Hello 👋，我是 Kslpix ❤️，一个~~博览群站~~的学习者，写过�
 
 ![skills](https://skillicons.dev/icons?i=bash,cloudflare,docker,git,github,linux,md,ps,py,raspberrypi,vscode,fastapi,pytorch,vim)
 
-# 🚧 项目建设
+## 🚧 项目建设
 
 本项目使用Obsidian写作和发布，且毫无保留地**开源**，这里是项目地址：[GitHub - kslpix/YuewuPavilion](https://github.com/kslpix/YuewuPavilion)。喜欢我的项目？快来给我一个 star⭐ 鼓励我继续维护！
 

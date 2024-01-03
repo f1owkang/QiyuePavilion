@@ -1,9 +1,9 @@
-# NanoPi R2S新版介绍
+## NanoPi R2S新版介绍
 
 - NanoPi R2S（以下简称R2S）是友善电子团队最新推出的一款实现满速率双千兆的、完全开源的开发板。
 - NanoPi R2S 使用RK3328 CPU，有两个千兆网络，1G DDR4内存，友善电子团队为NanoPi R2S专门移植了OpenWrt系统，支持Docker CE, 完全开源，用于企业物联网二次开发，个人定制NAS等。
 
-# NanoPi R2S资源特性
+## NanoPi R2S资源特性
 
 - CPU: Rockchip RK3328, Quad-core Cortex-A53
 - DDR4 RAM: 1GB
@@ -28,7 +28,7 @@
 | LAN | 941 Mbps | 941 Mbps |
 | Notes： | 1、测试工具：iperf（官方数据） | 2、使用独立IP地址段和PC机单向通讯测试 |
 
-# 接口布局和尺寸
+## 接口布局和尺寸
 
 |Pin# | Name | Linux gpio |
 |:-:|:---:|:---:|
@@ -42,3 +42,15 @@
 | 8	| UART1_TX / GPIO3_A4 | 100 |
 | 9 | GND |  |
 | 10 | UART1_RX / GPIOG3_A6 | 102|
+
+## 官方 OpenWrt
+
+- 非常简洁的固件
+- 缺少一些USB网卡驱动
+- 貌似不支持LED控制（？）
+
+## 官方 FriendlyWrt
+
+- 支持部分USB网卡驱动
+- 页面可以显示温度
+- 固件已集成某些软件
