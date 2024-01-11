@@ -1,3 +1,9 @@
+---
+title: 欢迎来到月梧阁
+aliases: []
+draft: false
+tags:
+---
 ## NanoPi R2S新版介绍
 
 - NanoPi R2S（以下简称R2S）是友善电子团队最新推出的一款实现满速率双千兆的、完全开源的开发板。
@@ -49,7 +55,7 @@
 - 缺少一些USB网卡驱动
 - 貌似不支持LED控制（？）
 
-## 官方 FriendlyWrt
+## 官方 FriendlyWrt（推荐）
 
 - 支持部分USB网卡驱动
 - 页面可以显示温度
