@@ -1,8 +1,9 @@
 ---
-title: 欢迎来到月梧阁
+title: Adguard Home 文档
 aliases: []
 draft: false
 tags:
+  - 教程
 ---
 ## Adguard Home
 

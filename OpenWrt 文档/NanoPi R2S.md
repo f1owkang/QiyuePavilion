@@ -1,8 +1,9 @@
 ---
-title: 欢迎来到月梧阁
+title: NanoPi R2S 文档
 aliases: []
 draft: false
 tags:
+  - 教程
 ---
 ## NanoPi R2S新版介绍
 
