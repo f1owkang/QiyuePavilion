@@ -1,3 +1,4 @@
+# 已转移至OneNote 本项目不再更新
 ## 栖月阁（Markdown驱动）
 
 Hello 👋，我是 Kslpix ❤️，一个~~博览群站~~的学习者，写过一点代码，有过几个微型项目。
@@ -14,4 +15,4 @@ Hello 👋，我是 Kslpix ❤️，一个~~博览群站~~的学习者，写过�
 
 本项目处于建设阶段，如果你想敦促我更新，或有一些建议和问题，欢迎来 [Github Issues](https://github.com/kslpix/QiyuePavilion/issues)。
 
->如果你发现了我的个人隐私或者不适当的言论，请你告知我，万分感谢: yuewuwork@outlook.com。
+>如果你发现了我的个人隐私或者不适当的言论，请你告知我，万分感谢。
